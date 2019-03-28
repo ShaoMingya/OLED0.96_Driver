@@ -1,0 +1,1 @@
+gcc oled.c oled.h -o oled.so -shared -fPIC -lbcm2835 -Wall
